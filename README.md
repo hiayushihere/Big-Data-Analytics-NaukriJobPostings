@@ -48,3 +48,8 @@ To view all generated visualizations (keyword clouds, bubble charts, salary dist
 
 * You can click on the Jupyter Notebook files (`.ipynb`) directly on GitHub to view a static rendering of the code, markdown, and **most of the final output visualizations**.
 * *Note: Interactive elements or visualizations generated with libraries requiring a live kernel may not render properly in the static GitHub preview.*
+## Collaboration & Contact
+
+I am open to discussions and feedback on this project or any other. Feel free to reach out with questions or potential improvements!
+
+**Email:** ayushi87u@gmail.com
