@@ -1,0 +1,10 @@
+pyspark
+findspark
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
+selenium
